@@ -1,3 +1,4 @@
+
 import { GithhubUser } from "./githubUsers.js"
 
 export class Favorites {
