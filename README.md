@@ -28,7 +28,7 @@ Javascript, HTML, CSS...
 
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+Eu sou uma pessoa desenvolvedora web Front-end web development.
 
 
 ## 🔗 Links
