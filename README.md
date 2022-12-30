@@ -1,7 +1,8 @@
 
 # GITHUB FAVORITES
-
 A idéia desse projeto é favoritar as pessoas do GitHub. 
+<img src="./img/favoritos.png" alt="logo Gitfav">
+
 ## 🛠 Habilidades
 Javascript, HTML, CSS...
 
